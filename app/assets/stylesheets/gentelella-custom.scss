@@ -837,7 +837,7 @@ a:focus {
     background-color: transparent
 }
 .top_search {
-    padding: 0
+    padding: 13px;
 }
 .top_search .form-control {
     border-right: 0;
@@ -2204,6 +2204,9 @@ legend {
 }
 .form-group {
     margin-bottom: 10px
+}
+.form-group-summ {
+    margin-bottom: -10px
 }
 .validate {
     margin-top: 10px
